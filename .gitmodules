@@ -1,0 +1,3 @@
+[submodule "public/generative-ai-course"]
+	path = public/generative-ai-course
+	url = https://github.com/KasperFyhn/generative-ai-course.git
