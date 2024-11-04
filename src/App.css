@@ -4,7 +4,6 @@
 }
 
 
-
 .root {
     display: flex;
     /* Why does this calc not work as expected such that I need to subtract 14px?*/
@@ -44,7 +43,7 @@
 }
 
 .white-image {
-  filter: brightness(0) invert(100);
+    filter: brightness(0) invert(100);
 }
 
 .frontpage {
