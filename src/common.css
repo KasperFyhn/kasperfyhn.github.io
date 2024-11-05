@@ -5,3 +5,6 @@
     --second-text-color: black;
 }
 
+.white-image {
+    filter: brightness(0) invert(100);
+}
